@@ -17,3 +17,5 @@ Router.delete('/users/:id',deleteUser)
  // update user with id
 Router.patch('/users/:id',Updateuser)
 export default Router
+
+new routes added
